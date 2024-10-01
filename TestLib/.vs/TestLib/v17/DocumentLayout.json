@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vs\\projects\\tests\\TestLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD61EBE-3074-4A4A-9D30-4EA45A95C0B8}|TestLib\\TestLib.csproj|e:\\vs\\projects\\tests\\testlib\\testlib\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD61EBE-3074-4A4A-9D30-4EA45A95C0B8}|TestLib\\TestLib.csproj|solutionrelative:testlib\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD61EBE-3074-4A4A-9D30-4EA45A95C0B8}|TestLib\\TestLib.csproj|e:\\vs\\projects\\tests\\testlib\\testlib\\iareacount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD61EBE-3074-4A4A-9D30-4EA45A95C0B8}|TestLib\\TestLib.csproj|solutionrelative:testlib\\iareacount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD61EBE-3074-4A4A-9D30-4EA45A95C0B8}|TestLib\\TestLib.csproj|e:\\vs\\projects\\tests\\testlib\\testlib\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD61EBE-3074-4A4A-9D30-4EA45A95C0B8}|TestLib\\TestLib.csproj|solutionrelative:testlib\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FCBF10-EC08-46B8-B7D7-C0C26FCFB004}|ConsoleAppTest\\ConsoleAppTest.csproj|e:\\vs\\projects\\tests\\testlib\\consoleapptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FCBF10-EC08-46B8-B7D7-C0C26FCFB004}|ConsoleAppTest\\ConsoleAppTest.csproj|solutionrelative:consoleapptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD61EBE-3074-4A4A-9D30-4EA45A95C0B8}|TestLib\\TestLib.csproj|e:\\vs\\projects\\tests\\testlib\\testlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD61EBE-3074-4A4A-9D30-4EA45A95C0B8}|TestLib\\TestLib.csproj|solutionrelative:testlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD61EBE-3074-4A4A-9D30-4EA45A95C0B8}|TestLib\\TestLib.csproj|e:\\vs\\projects\\tests\\testlib\\testlib\\ili_tak\\areacounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD61EBE-3074-4A4A-9D30-4EA45A95C0B8}|TestLib\\TestLib.csproj|solutionrelative:testlib\\ili_tak\\areacounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AreaCounter.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\tests\\TestLib\\TestLib\\ili_tak\\AreaCounter.cs",
+              "RelativeDocumentMoniker": "TestLib\\ili_tak\\AreaCounter.cs",
+              "ToolTip": "E:\\vs\\projects\\tests\\TestLib\\TestLib\\ili_tak\\AreaCounter.cs",
+              "RelativeToolTip": "TestLib\\ili_tak\\AreaCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:30:42.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\tests\\TestLib\\TestLib\\Triangle.cs",
+              "RelativeDocumentMoniker": "TestLib\\Triangle.cs",
+              "ToolTip": "E:\\vs\\projects\\tests\\TestLib\\TestLib\\Triangle.cs",
+              "RelativeToolTip": "TestLib\\Triangle.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:49:55.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\tests\\TestLib\\TestLib\\Circle.cs",
+              "RelativeDocumentMoniker": "TestLib\\Circle.cs",
+              "ToolTip": "E:\\vs\\projects\\tests\\TestLib\\TestLib\\Circle.cs",
+              "RelativeToolTip": "TestLib\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:44:19.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\tests\\TestLib\\ConsoleAppTest\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTest\\Program.cs",
+              "ToolTip": "E:\\vs\\projects\\tests\\TestLib\\ConsoleAppTest\\Program.cs",
+              "RelativeToolTip": "ConsoleAppTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:34:36.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAreaCount.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\tests\\TestLib\\TestLib\\IAreaCount.cs",
+              "RelativeDocumentMoniker": "TestLib\\IAreaCount.cs",
+              "ToolTip": "E:\\vs\\projects\\tests\\TestLib\\TestLib\\IAreaCount.cs",
+              "RelativeToolTip": "TestLib\\IAreaCount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:20:19.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\vs\\projects\\tests\\TestLib\\TestLib\\Class1.cs",
+              "RelativeDocumentMoniker": "TestLib\\Class1.cs",
+              "ToolTip": "E:\\vs\\projects\\tests\\TestLib\\TestLib\\Class1.cs",
+              "RelativeToolTip": "TestLib\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:13:52.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
